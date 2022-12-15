@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @decpeople
-- 👀 I’m interested in javascript, 
+- 👀 I’m interested in javascript, python
 - 💞 ️ I am looking for opportunities for any kind of cooperation
 - 📫 How to reach me ... {"mail":"decpeople1@gmail.com","instagram":"explosive_97", "whatsapp":"please send mail"}
 

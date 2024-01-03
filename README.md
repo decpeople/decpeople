@@ -4,8 +4,7 @@
 - 📫 How to reach me (...) 
 - {
 -  "mail" : "decpeople1@gmail.com",
--  "instagram" : "explosive_97",
--  "whatsapp" : "please send mail"
+-  "instagram" : "explosive_97"
 - }
 
 <!---
